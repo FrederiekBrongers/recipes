@@ -1,4 +1,6 @@
-cook spaghetti
+cook water
+put spaghetti in it
+cook for 8 minutes
 cook meat
 add tomatos
 put them together
