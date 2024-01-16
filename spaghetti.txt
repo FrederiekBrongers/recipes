@@ -1,4 +1,5 @@
 cook spaghetti
-cook sauce
+cook meat
+add tomatos
 put them together
 eat it
