@@ -1,3 +1,2 @@
 Stap 1
-Stap 2
-Stap 3
+Stapje 2
